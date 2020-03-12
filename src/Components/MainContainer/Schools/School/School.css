@@ -1,0 +1,6 @@
+.customStyle {
+	vertical-align: middle;
+	padding: 0px;
+	top: 50%;
+	transform: translateY(10px);
+}
